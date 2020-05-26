@@ -1,2 +1,2 @@
-# PHP-HotelManagment
-Hotel Management project demo
+# Sadaqah
+A project for charity 
